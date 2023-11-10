@@ -2,3 +2,5 @@
 build/
 tree
 imgs/
+*.html
+*.dot
